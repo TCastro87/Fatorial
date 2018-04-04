@@ -1,0 +1,7 @@
+C:\VisualStudio_Projects\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\VisualStudio_Projects\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\VisualStudio_Projects\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\VisualStudio_Projects\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache
+C:\VisualStudio_Projects\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\VisualStudio_Projects\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\VisualStudio_Projects\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
